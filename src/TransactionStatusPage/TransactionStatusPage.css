@@ -1,0 +1,8 @@
+
+.back {
+     display: flex;
+     align-items: center;
+     justify-content: left;
+     height: 100vh;
+     padding: 50px;
+}
